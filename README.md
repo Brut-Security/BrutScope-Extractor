@@ -40,7 +40,7 @@ A Firefox/Chrome extension for bug bounty hunters and pentesters. Extract wildca
 2. Click the **BrutScope Extractor** icon  
 3. Click **Copy to Clipboard** or **Download Domains**
 
-![Watch the video](poc.mp4)
+![Watch the video](poc.gif)
 
 ## 🤝 Contributing
 
