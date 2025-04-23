@@ -38,7 +38,9 @@ A Firefox/Chrome extension for bug bounty hunters and pentesters. Extract wildca
 
 1. Navigate to a bug bounty scope page (HackerOne, Bugcrowd, etc.)  
 2. Click the **BrutScope Extractor** icon  
-3. Click **Copy to Clipboard** or **Download Domains**  
+3. Click **Copy to Clipboard** or **Download Domains**
+
+![Watch the video](poc.mp4)
 
 ## 🤝 Contributing
 
